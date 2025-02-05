@@ -6,6 +6,12 @@ The flow of the data is as follows:
 
 ![symmetric.png](symmetric.png)
 
+### Example
+
+With the following flow of data we can encrypt and decrypt a message using a symmetric keys for login:
+
+![symmetric-keys-login.png](symmetric-keys-login.png)
+
 ### Author
 
 - [Raul Bolivar Navas](https://github.com/raulrobinson/symmetric-keys)
