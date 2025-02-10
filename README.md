@@ -6,7 +6,7 @@ The flow of the data is as follows:
 
 ![symmetric.png](symmetric.png)
 
-### Example
+### Use-case example
 
 With the following flow of data we can encrypt and decrypt a message using a symmetric keys for login:
 
